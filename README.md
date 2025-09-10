@@ -57,6 +57,8 @@ docker ps
 
 <img width="763" height="49" alt="image" src="https://github.com/user-attachments/assets/01164c96-6aed-4d73-9501-6685cdbe9f0e" />
 
+<img width="2555" height="645" alt="image" src="https://github.com/user-attachments/assets/fa353640-85b5-465e-9258-61c1ebbd2f6e" />
+
 
 ## Задание 1.6 — Переименование на hello\_world
 
