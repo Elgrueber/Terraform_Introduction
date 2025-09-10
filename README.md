@@ -22,6 +22,7 @@ terraform -version
 Код выполнен, ресурс `random_password.random_string` создан.
 
 **Фрагмент `terraform.tfstate`:**
+
 <img width="173" height="19" alt="image" src="https://github.com/user-attachments/assets/ca146689-4360-4dbe-b0a9-253635c6a382" />
 
 **Ответ:**
@@ -41,7 +42,6 @@ random_password.random_string.result
 **Результат:**
 
 <img width="342" height="30" alt="image" src="https://github.com/user-attachments/assets/9104cc50-0bcf-4064-ace9-ca1b76457380" />
-
 
 ## Задание 1.5 — Применение кода и проверка контейнера
 
@@ -104,10 +104,3 @@ resource "docker_image" "hello_world" {
   keep_locally = true
   force_remove = true
 }
-
-
-
-
-
-Хочешь, я ещё сделаю финальный **main.tf** (с random\_password + hello\_world) в отдельный блок, чтобы его тоже можно было приложить в репо?
-# Terraform_Introduction
