@@ -23,7 +23,7 @@ terraform -version
 
 **Фрагмент `terraform.tfstate`:**
 
-<img width="173" height="19" alt="image" src="https://github.com/user-attachments/assets/ca146689-4360-4dbe-b0a9-253635c6a382" />
+<img width="342" height="30" alt="image" src="https://github.com/user-attachments/assets/9104cc50-0bcf-4064-ace9-ca1b76457380" />
 
 **Ответ:**
 
@@ -41,7 +41,8 @@ random_password.random_string.result
 
 **Результат:**
 
-<img width="342" height="30" alt="image" src="https://github.com/user-attachments/assets/9104cc50-0bcf-4064-ace9-ca1b76457380" />
+<img width="612" height="56" alt="image" src="https://github.com/user-attachments/assets/9ea67854-93f9-4c89-88c7-359a4e12c1e7" />
+
 
 ## Задание 1.5 — Применение кода и проверка контейнера
 
@@ -52,7 +53,9 @@ docker ps
 
 **Скриншоты:**
 
-<img width="766" height="104" alt="image" src="https://github.com/user-attachments/assets/1002409a-1d75-4cfe-9e23-46898ab12abc" />
+<img width="1303" height="61" alt="image" src="https://github.com/user-attachments/assets/a71feae9-33e2-4e1f-a7d9-911c0305dc8e" />
+
+<img width="763" height="49" alt="image" src="https://github.com/user-attachments/assets/01164c96-6aed-4d73-9501-6685cdbe9f0e" />
 
 
 ## Задание 1.6 — Переименование на hello\_world
